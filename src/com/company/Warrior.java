@@ -7,6 +7,6 @@ public class Warrior extends Hero {
     }
 
     public  void applySuperAbility(){
-        System.out.println("Health: " + this.Health + " Damage: " + this.Damage+ " Magic activated ability: " + this.typeOfSuperPower);
+        System.out.println("Health: " + this.Health + " Damage: " + this.Damage+ " Warrior activated ability: " + this.typeOfSuperPower);
     }
 }
